@@ -1,0 +1,557 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Midjourney Subscription Plans
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Current
+
+
+
+Current
+
+
+
+
+Legacy
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+  
+
+
+         
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Contents x
+
+
+
+
+
+
+
+
+No matching results found
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Powered by
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Subscription Plans
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Dark
+
+
+ Light
+
+
+
+
+
+Contents
+
+
+
+
+
+
+
+
+
+
+
+Subscription Plans
+
+
+
+
+
+
+
+
+
+
+ Dark
+
+
+ Light
+
+
+
+
+
+
+
+
+Midjourney has three subscription tiers. Pay month-to-month or for the entire year for a 20% discount. Each subscription plan includes access to the Midjourney member gallery, the official Discord, general commercial usage terms, and more.
+
+How to Subscribe
+
+Use the /subscribe command to generate a personal link to the subscription page.
+Or, go to Midjourney.com/account
+Or, select Manage Sub from the sidebar while logged into the Midjourney website.
+
+
+Plan Comparison
+
+
+
+
+Free Trial
+Basic Plan
+Standard Plan
+Pro Plan
+
+
+
+
+Monthly Subscription Cost
+-
+$10 
+$30
+$60
+
+
+Annual Subscription Cost
+-
+$96 ($8 / month)  
+$288 ($24 / month)  
+$576 ($48 / month)  
+
+
+Fast GPU Time
+0.4 hr/lifetime
+3.3 hr/month
+15 hr/month
+30 hr/month
+
+
+Relax GPU TimePer Month
+ - 
+ - 
+Unlimited
+Unlimited
+
+
+Purchase ExtraGPU Time
+-
+$4/hr
+$4/hr
+$4/hr
+
+
+Work Solo In YourDirect Messages
+-
+✓
+✓
+✓
+
+
+Stealth Mode
+-
+-
+-
+✓
+
+
+Maximum Queue
+3 concurrent Jobs10 Jobs waiting in queue
+3 concurrent Jobs10 Jobs waiting in queue
+3 concurrent Jobs10 Jobs waiting in queue
+12 concurrent Fast Jobs3 concurrent Relaxed Jobs 10 Jobs waiting in queue
+
+
+Rate Images to Earn Free GPU Time
+-
+✓
+✓
+✓
+
+
+Usage Rights
+CC BY-NC 4.0
+General Commercial Terms*
+General Commercial Terms*
+General Commercial Terms*
+
+
+
+
+If you have subscribed at any point, you are free to use your images in just about any way you want. If you are a company making more than $1,000,000 USD in gross revenue per year, you must purchase the Pro plan. For complete details please see the Terms of Service
+
+
+Subscribe to a Plan
+Go to https://www.midjourney.com/account/ or use the /subscribe command to generate a link to the subscription page.
+
+Don't Share Your Link
+
+The generated link is unique for each account and should never be shared with others!
+
+Payment Methods
+Only payment methods supported by Stripe are currently accepted: credit or debit cards issued by services like Mastercard, VISA, or American Express. Stripe is a PCI Service Provider Level 1, the most stringent level of certification available in the payments industry.
+Google Pay, Apple Pay, and Cash App Pay are available in some regions.
+PayPal, wire transfer, and similar methods are not supported.
+
+Manage Your Plan
+Manage your subscription plan at https://www.midjourney.com/account/.
+
+
+Monthly Renewal
+
+Unused monthly Fast GPU time does not roll over.
+Fast mode is automatically reactivated when the subscription renews.
+
+
+Switch Plans
+Upgrade or downgrade plans at any time. When upgrading, you may choose whether the upgrade should be effective immediately, or at the end of the current billing cycle. If you choose to upgrade immediately, you will be offered a prorated price based on the usage of the plan you are upgrading from. Downgrades are always effective at the end of the current billing cycle.
+
+
+Proration?
+
+Unused Fast GPU Time is credited towards your account when you choose to upgrade immediately. If a Basic subscriber upgrades immediately without using any GPU time, they receive a $10 credit towards their new plan. If a Standard subscriber upgrades after using 50% of their Fast GPU time, they recieve a $15 credit towards their new plan.
+
+
+Cancellation
+Go to https://www.midjourney.com/account/ to cancel a subscription at any time. Cancellations are effective at the end of the current billing cycle. Subscription benefits like access to the community gallery are available until the end of the current billing cycle.
+
+
+
+Generated images are not deleted when a user cancels their subscription. Resubscribe to a plan at any time by visiting https://www.midjourney.com/account/.
+
+
+Refunds
+Refunds are available for subscribers who have used less than 1% of their monthly GPU minutes, including time used in Relax Mode. If you are eligible for a refund, the dialog box will automatically pop up when you click to cancel your account.
+
+
+Buy More Fast Hours
+Run out of Fast GPU and want to buy more before your monthly subscription renews? You can purchase additional Fast GPU hours for $4/hr. Hourly Prices are experimental and subject to change.
+Purchase more Fast GPU hours on your Midjourney account page.
+
+
+Purchased Fast GPU hours do not expire, but you must have an active subscription to use them.
+
+
+Account Information
+Use the /info command to view information about your account, including how much Fast time is left for the subscription period, lifetime usage stats, the number of queued or running jobs, and the subscription renewal date.
+
+There are two modes for image generation, Fast Mode and Relax Mode. Fast Mode tries to give you a GPU instantly. It's the highest-priority processing tier and uses your subscription's monthly GPU time. Relax Mode queues your generation behind others based on how much you've used the system. Relax Mode wait times are variable and usually range from 1–10 minutes.By default, images are generated using Fast Mode. You can switch to Relax if you have a Standard or Pro subscription.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Previous
+
+
+
+
+
+
+
+
+Next
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Table of contents
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Midjourney is an independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species. We are a small self-funded team focused on design, human infrastructure, and AI.
+                        FOLLOW US: [F] [T] [R]
+
+
+
+
+
+Support
+For questions or support visit the  Midjourney Discord support channels.
+
+
+
+
+Sites
+
+Midjourney Website
+Midjourney Discord
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

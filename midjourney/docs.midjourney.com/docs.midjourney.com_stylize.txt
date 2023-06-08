@@ -1,0 +1,506 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Midjourney Stylize Parameter
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Current
+
+
+
+Current
+
+
+
+
+Legacy
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+  
+
+
+         
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Contents x
+
+
+
+
+
+
+
+
+No matching results found
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Powered by
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Stylize
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Dark
+
+
+ Light
+
+
+
+
+
+Contents
+
+
+
+
+
+
+
+
+
+
+
+Stylize
+
+
+
+
+
+
+
+
+
+
+ Dark
+
+
+ Light
+
+
+
+
+
+
+
+
+This Midjourney Bot has been trained to produce images that favor artistic color, composition, and forms. The --stylize or --s parameter influences how strongly this training is applied. Low stylization values produce images that closely match the prompt but are less artistic. High stylization values create images that are very artistic but less connected to the prompt.
+
+
+--stylize's default value is 100 and accepts integer values 0–1000 when using the default [V4 model].
+
+
+Different Midjourney Version Models have different stylize ranges.
+
+
+
+
+Version 5
+Version 4
+Version 3
+Test / Testp
+niji
+
+
+
+
+Stylize default
+100
+100
+2500
+2500
+NA
+
+
+Stylize Range
+0–1000
+0–1000
+625–60000
+1250–5000
+NA
+
+
+
+
+
+Common Stylize Settings
+Midjourney Model V4
+prompt example: /imagine prompt illustrated figs --s 100
+
+--stylize 50
+
+🖌️ Style Low
+
+--stylize 100 (default)
+
+🖌️ Style Med
+
+--stylize 250
+
+🖌️ Style High
+
+--stylize 750
+
+🖌️ Style Very High
+
+
+
+
+Midjourney Model V5
+prompt example: /imagine prompt colorful risograph of a fig --s 100
+
+--stylize 0
+
+
+--stylize 50
+
+
+--stylize 100 (default)
+
+
+
+
+--stylize 250
+
+
+--stylize 750
+
+
+--stylize 1000
+
+
+
+
+
+How to Switch Stylization Values
+Use the Stylize Parameter
+Add --stylize <value> or --s <value> to the end of your prompt.
+
+
+Use the Settings Command
+Type /settings and select your preferred stylize value from the menu.
+
+🖌️ Style Low
+🖌️ Style Med
+🖌️ Style High
+🖌️ Style Very High
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Previous
+
+
+
+
+
+
+
+
+Next
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Table of contents
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Midjourney is an independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species. We are a small self-funded team focused on design, human infrastructure, and AI.
+                        FOLLOW US: [F] [T] [R]
+
+
+
+
+
+Support
+For questions or support visit the  Midjourney Discord support channels.
+
+
+
+
+Sites
+
+Midjourney Website
+Midjourney Discord
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

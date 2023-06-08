@@ -1,0 +1,301 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Midjourney Documentation and User Guide
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Current
+
+
+
+
+
+Current
+
+
+
+
+Legacy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Midjourney Documentation
+ 
+
+
+
+
+
+ 
+
+
+  
+
+
+         
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Join the Midjourney community on Discord or the Web, where thousands collaborate to create new worlds, fantastic characters, and unique imagery from short text descriptions.
+
+Quick Start Guide
+
+
+
+
+
+
+
+                                    Explore More Topics
+                                
+
+
+
+
+
+
+Using Discord
+Explore the basics of prompt writing and creating images.
+
+
+
+
+
+
+
+
+
+
+
+
+Getting Started
+Learn how to use Discord to work with the Midjourney Bot.
+
+
+
+
+
+
+
+
+
+
+
+
+User Guide
+Learn about versions, parameters, and more.
+
+
+
+
+
+
+
+
+
+
+ = = = = =  = = = = =  = = = = =  = = = = =  = = = = =
+
+
+
+
+
+
+                     _—_T                                                   —_—T                                                   _—_T                                                   —_–T                                                   _—_T                                                   —_—T                             
+                        |\                                                     |\                                                     |\                                                     |\                                                     |\                                                     |\                            
+                       /|_\                                                   /|_\                                                   /|_\                                                   /|_\                                                   /|_\                                                   /|_\                           
+                     _-~|__\                                                _-~|__\                                                _-~|__\                              .                 _-~|__\                                                _-~|__\                                                _-~|__\                          
+                     /  |___\                                               /  |___\                                               /  |___\                                               /  |___\                                               /  |___\                                               /  |___\                         
+                   _-~  |    \                                            _-~  |    \                                            _-~  |    \                                            _-~  |    \                                            _-~  |    \                                            _-~  |    \                        
+                   /____|_____\                                           /____|_____\                                     .     /____|_____\                         .             °   /____|_____\                                    .      /____|_____\                                           /____|_____\                       
+                 _______:_______                                     . ._______:_______                                     . °_______:_______                                        _______:_______                                        _______:_______                                        _______:_______                      
+  .-.   .-.   .-.\  .-.   .-.  /.-.   .-.   .-.   .-.   .-.   .-.   .-.°\ .-.   .-.   .-.   .-.   .-.   .-.   .-.   .-.   .-.  \.-.   .-.   .-.   .-.   .-.   .-.   .-.   .-.   .-.   .-.   .-.   .-.   .-.   .-.   .-.   .-.   .-.   .-.   .-.   .-.   .-./  .-.   .-.   .-.   .-.   .-.   .-.   .-.   .-.   .-. / .-.   .-.   .-.   .-. 
+-‘.-.‘-‘.-.’-’.-.‘-’.-.‘-’.-.’-’.-.‘-’.-.’-’.-.‘-’.-.‘-’.-.‘-’.-.‘-’.-.‘-’.-.‘-’.-.’-’.-.‘-’.-.‘-’.-.‘-’.-.‘-’.-.‘-’.-.‘-’.-.’-‘.-.‘-’.-.’-’.-.‘-’.-.‘-’.-.‘-’.-.‘-’.-.‘-’.-.‘-’.-.‘-’.-.‘-’.-.’-’.-.‘-’.-.‘-’.-.‘-’.-.‘-’.-.‘-’.-.‘-’.-.‘-’.-.‘-’.-.’-’.-.‘-’.-.‘-’.-.’-’.-.‘-’.-.‘-’.-.‘-’.-.’-’.-.’-’.-.’-’.-.’-’.-.‘-’.-.’-’.-.‘-’.-.‘
+-‘   ‘-‘   ’-’   ‘-’   ‘-’   ‘-’   ‘-’   ’-’   ‘-’   ‘-’   ‘-’   ‘-’   ‘-’   ‘-’   ‘-’   ‘-’   ‘-’   ‘-’   ‘-’   ‘-’   ‘-’   ‘-‘   ‘-’   ‘-’   ‘-’   ‘-’   ‘-’   ‘-’   ‘-’   ‘-’   ‘-’   ‘-’   ‘-’   ‘-’   ‘-’   ‘-’   ‘-’   ‘-’   ‘-’   ‘-’   ‘-’   ‘-’   ‘-’   ‘-’   ’-’   ‘-’   ‘-’   ‘-’   ’-’   ’-’   ‘-’   ‘-’   ‘-’   ‘-’   ‘-’   ‘
+  
+
+
+
+
+
+
+Most Viewed Articles
+
+Quick Start
+Discord Interface
+Subscription Plans
+Terms of Service
+Prompts
+
+
+
+Recently Created Articles
+
+Repeat
+Describe
+Permutation Prompts
+Understanding Image Size
+Blend
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Midjourney is an independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species. We are a small self-funded team focused on design, human infrastructure, and AI.
+                        FOLLOW US: [F] [T] [R]
+
+
+
+
+
+Support
+For questions or support visit the  Midjourney Discord support channels.
+
+
+
+
+Sites
+
+Midjourney Website
+Midjourney Discord
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

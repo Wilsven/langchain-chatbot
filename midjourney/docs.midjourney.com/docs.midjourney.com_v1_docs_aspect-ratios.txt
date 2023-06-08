@@ -1,0 +1,459 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Midjourney Aspect Ratio Parameter
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Current
+
+
+
+Current
+
+
+
+
+Legacy
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+  
+
+
+         
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Contents x
+
+
+
+
+
+
+
+
+No matching results found
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Powered by
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aspect Ratios
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Dark
+
+
+ Light
+
+
+
+
+
+Contents
+
+
+
+
+
+
+
+
+
+
+
+Aspect Ratios
+
+
+
+
+
+
+
+
+
+
+ Dark
+
+
+ Light
+
+
+
+
+
+
+
+
+The --aspect or --ar parameter changes the aspect ratio of the generated image. An aspect ratio is the width-to-height ratio of an image. It is typically expressed as two numbers separated by a colon, such as 7:4 or 4:3.
+A square image has equal width and height, described as a 1:1 aspect ratio. The image could be 1000px × 1000px, or 1500px × 1500px, and the aspect ratio would still be 1:1. A computer screen might have a ratio of 16:10.  The width is 1.6 times longer than the height. So the image could be 1600px × 1000px, 4000px × 2000px, 320px x 200px, etc.
+
+
+The default aspect ratio is 1:1.
+--aspect must use whole numbers. Use 139:100 instead of 1.39:1.
+The aspect ratio impacts the shape and composition of a generated image.
+Some aspect ratios may be slightly changed when upscaling.
+
+
+Max Aspect Ratios
+Different Midjourney Version Models have different maximum aspect ratios.
+
+
+
+
+Version 5
+Version 4c (default)
+Version 4a or 4b
+Version 3
+Test / Testp
+niji
+
+
+
+
+Ratios
+any*
+1:2 to 2:1
+Only: 1:1, 2:3 or 3:2
+5:2 to2:5
+3:2 to 2:3
+1:2 to 2:1
+
+
+
+The --ar parameter will accept any aspect ratio from 1:1 (square) up to the maximum aspect ratio for each model. However,  final outputs may be slightly modified during image generation or upscaling. Example: prompts using --ar 16:9 (1.78) create images with a 7:4 (1.75) aspect ratio.
+*  Aspect ratios greater than 2:1 are experimental and may produce unpredicatble results.
+
+
+prompt example: imagine/ prompt vibrant california poppies --ar 5:4
+
+Common Midjourney Aspect Ratios
+--aspect 1:1 Default aspect ratio.
+--aspect 5:4 Common frame and print ratio.
+--aspect 3:2 Common in print photography.
+--aspect 7:4 Close to HD TV screens and smartphone screens.
+
+How to Change the Aspect Ratio
+Use Aspect Ratio Parameters
+Add --aspect <value>:<value>, or --ar <value>:<value> to the end of your prompt.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Previous
+
+
+
+
+
+
+
+
+Next
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Table of contents
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Midjourney is an independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species. We are a small self-funded team focused on design, human infrastructure, and AI.
+                        FOLLOW US: [F] [T] [R]
+
+
+
+
+
+Support
+For questions or support visit the  Midjourney Discord support channels.
+
+
+
+
+Sites
+
+Midjourney Website
+Midjourney Discord
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

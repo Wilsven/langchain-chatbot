@@ -1,0 +1,6 @@
+langchain
+redis
+openai
+numpy
+pandas
+gdown

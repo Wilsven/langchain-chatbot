@@ -1,0 +1,494 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Midjourney illustrated guide to Settings and Presets
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Current
+
+
+
+Current
+
+
+
+
+Legacy
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+  
+
+
+         
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Contents x
+
+
+
+
+
+
+
+
+No matching results found
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Powered by
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Settings and Presets
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Dark
+
+
+ Light
+
+
+
+
+
+Contents
+
+
+
+
+
+
+
+
+
+
+
+Settings and Presets
+
+
+
+
+
+
+
+
+
+
+ Dark
+
+
+ Light
+
+
+
+
+
+
+
+
+The Settings command provides toggle buttons for common options like model version, style value, quality value, and upscaler version. Settings also has toggle buttons for the /stealth and /public commands.
+
+
+
+
+1️⃣ MJ Version 1
+2️⃣ MJ Version 2
+3️⃣ MJ Version 3
+4️⃣ MJ Version 4
+5️⃣ MJ Version 5
+
+
+🌈 Niji Mode
+🤖MJ Test
+📷 MJ Test Photo
+
+Sets the Model Versions used for jobs.
+Model Version 5 is only available to users with a Midjourney subscription.
+
+
+🔥 Half Quality
+🔥 Base Quality
+🔥 High Quality (2x cost)
+
+Sets the Quality Parameter used for jobs.
+Half Quality = --q .5, Base Quality = --q 1, High Quality = --q 2.
+
+
+🖌️ Style Low
+🖌️ Style Med
+🖌️ Style High
+🖌️ Style Very High
+
+Sets the Stylize Parameter used for jobs.
+Style Low = --s 50, Style Med = --s 100, Style High = --s 250, Style Very High = --s 750,
+
+
+🧍‍♂️Public
+🕵️ Stealth
+
+Switch between Public and Stealth modes. Corresponds to the /public and /stealth commands.
+
+
+🎛️ Remix
+
+Switch to Remix mode
+
+
+🐇 Fast
+🐢 Relax
+
+Switch between Fast and Relaxed modes. Corresponds to the /fast and /relax commands.
+
+
+Settings Note
+
+Parameters added to the end of a prompt will override selections made using /settings.
+
+
+Custom Preferences
+Create custom options using prefer commands to add commonly used parameters to the end of prompts automatically.
+/prefer auto_dm Completed Jobs are automatically sent to Direct Message
+/prefer option Create or manage a custom option.
+/prefer option list View your current custom options.
+/prefer suffix specify a suffix to add to the end of every prompt.
+
+Prefer Option
+/prefer option set <name> <value> Creates a custom parameter that you can use to add multiple parameters to the end of prompts quickly.
+
+/prefer option set mine --hd --ar 7:4 creates an option called "mine" that translates to --hd --ar 7:4.
+
+
+Using /imagine prompt vibrant California poppies --mine, is interpreted as /imagine prompt vibrant California poppies --hd --ar 7:4.
+Leave the "value" field empty to delete an option.
+
+/prefer option list list all options created with prefer option set.  Users can have up to 20 custom options.
+
+To delete a custom option, use /prefer option set <name to delete> and leave the value field blank.
+
+Prefer Suffix
+/prefer suffix automatically appends the specified suffix after all prompts. Use the command without a value to reset.
+Command example: /prefer suffix --uplight --video
+
+
+Only Parameters can be used with /prefer suffix,
+prefer suffix --no orange is accepted
+prefer suffix orange::-1 is not accepted
+
+Subscribers can work one-on-one with the Midjourney Bot in Discord's Direct Messages instead of a public channel. Images made within your direct messages are still subject to content and moderation rules and will be visible on your Midjourney website gallery.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Previous
+
+
+
+
+
+
+
+
+Next
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Table of contents
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Midjourney is an independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species. We are a small self-funded team focused on design, human infrastructure, and AI.
+                        FOLLOW US: [F] [T] [R]
+
+
+
+
+
+Support
+For questions or support visit the  Midjourney Discord support channels.
+
+
+
+
+Sites
+
+Midjourney Website
+Midjourney Discord
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,493 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Midjourney Discord Interface
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Current
+
+
+
+Current
+
+
+
+
+Legacy
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+  
+
+
+         
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Contents x
+
+
+
+
+
+
+
+
+No matching results found
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Powered by
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Discord Interface
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Dark
+
+
+ Light
+
+
+
+
+
+Contents
+
+
+
+
+
+
+
+
+
+
+
+Discord Interface
+
+
+
+
+
+
+
+
+
+
+ Dark
+
+
+ Light
+
+
+
+
+
+
+
+
+You can interact with the Midjourney Bot on Discord. The Midjourney server has channels for working collaboratively, technical and billing support, official announcements, offering feedback, and discussions. The community is supportive, encouraging, and eager to share their knowledge with users just starting out.
+Midjourney Discord: https://discord.gg/midjourney
+
+Discord Interface
+
+
+
+Server List
+
+Direct MessagesWork one-on-one with the Midjourney Bot in your Direct Messages for a quieter experience.
+Midjourney Official ServerThe official Midjourney server with channels for collaboration and billing/technical support.
+
+
+Channel List
+
+#trial-supportVisit this channel for billing and technical support from Midjourney Guides.
+#newbiesVisit any #newbies channel to create images.
+
+
+Member List
+
+Midjourney BotThe bot that produces images with the /imagine command
+Moderators and GuidesModerators and Guides can help with billing and technical problems in the support channels.
+
+
+
+Image Grids
+The /imagine command produces a grid of low-resolution image options based on your prompt. Use the buttons under each image grid to create variations of an image, upscale an image, or rerun the last Midjourney Bot action.
+
+
+
+
+
+Upscale Buttons
+
+U1
+U2
+U3
+U4
+U buttons upscale an image generating a larger version of the selected image and adding more details.
+Redo
+ 🔄 The redo (re-roll) button reruns a job. In this case, it would rerun the original prompt producing a new grid of images. 
+Variation Buttons
+
+V1
+V2
+V3
+V4
+V buttons create incremental variations of the selected grid image. Creating a variation generates a new image grid similar to the chosen image's overall style and composition.
+
+
+
+Upscaled Images
+
+
+
+
+
+Upscale Redo Buttons
+
+
+🪄 Make Variations 🔍 Light Upscale Redo 🔍 Beta Upscale Redo
+
+Redo the image using a different upscaler
+View on the Web
+↗️Web View this image on the Midjourney website 
+Image Ratings
+😖 😒 🙂 😍 Rate images you love or hate with the emojis. Images rated highly may appear on the trending section of the Midjourney website. Subscribers can earn a free Fast GPU hour daily by rating images. A bonus Fast hour is awarded to the top 1000 raters each day.
+
+
+
+
+Direct Messages
+If the #general or #newbie channels are moving too fast, Midjouney subscribers can work one-on-one with the Midjourney Bot in their Discord Direct Messages.
+Learn how to direct message the Midjourney Bot
+
+Emoji Reactions
+React with different emojis to Midjourney Jobs to send images to your Direct Messages, cancel a job in progress, or delete an image.
+Learn how to use emoji reactions.
+
+Daily Theme Channel
+Participate in a fun themed group image generation in the #daily-theme channel. Look for the day's theme next to the channel's name. All generations must include one of the day's keywords.
+
+
+Turn off the daily theme notification
+
+Want to avoid the daily notification from the daily theme channel? Use the /daily_theme command to turn off notifications for that channel.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Previous
+
+
+
+
+
+
+
+
+Next
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Table of contents
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Midjourney is an independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species. We are a small self-funded team focused on design, human infrastructure, and AI.
+                        FOLLOW US: [F] [T] [R]
+
+
+
+
+
+Support
+For questions or support visit the  Midjourney Discord support channels.
+
+
+
+
+Sites
+
+Midjourney Website
+Midjourney Discord
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

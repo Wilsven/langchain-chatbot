@@ -1,0 +1,600 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Midjourney Image Prompts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Current
+
+
+
+Current
+
+
+
+
+Legacy
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+  
+
+
+         
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Contents x
+
+
+
+
+
+
+
+
+No matching results found
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Powered by
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Image Prompts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Dark
+
+
+ Light
+
+
+
+
+
+Contents
+
+
+
+
+
+
+
+
+
+
+
+Image Prompts
+
+
+
+
+
+
+
+
+
+
+ Dark
+
+
+ Light
+
+
+
+
+
+
+
+
+You can use images as part of a prompt to influence a Job's composition, style, and colors. Images prompts can be used alone or with text prompts—experiment with combining images with different styles for the most exciting results.
+To add images to a prompt, type or paste the web address where the image is stored online. The address must end in an extension like .png, .gif, or .jpg. After adding image addresses, add any additional text and parameters to complete the prompt.
+
+
+
+
+Image prompts go at the front of a prompt.
+Prompts must have two images or one image and additional text to work.
+An image URL must be a direct link to an online image.
+In most browsers, right-click or long-press an image and select Copy Image Address to get the URL.
+The /blend command is a simplified image prompting process optimized for mobile users.
+
+
+Upload an image to Discord
+To use a personal image as part of a prompt, upload it to Discord. To upload an image, click the Plus sign next to where messages are typed. Select Upload a File, select an image, and send the message. To add this image to a prompt, begin typing /imagine as usual. After the prompt box appears, drag the image file into the prompt box to add the image's URL. Alternatively, right-click the image, select Copy Link, and then paste the link within the prompt box.
+
+
+
+Privacy Notes
+
+Upload images in your Direct Messages with the Midjourney Bot to prevent other server users from seeing an image.
+Image prompts are visible on the Midjourney website unless a user has Stealth Mode.
+
+
+
+Examples
+Starting Images
+
+
+
+Statue of Apollo
+
+
+
+Vintage Flower Illustration
+
+
+
+Ernst Haeckel's Jellyfish
+
+
+
+Ernst Haeckel's Lichen
+
+
+
+Hokusai's The Great Wave
+
+
+
+Midjourney Model Version 4
+
+
+Statue + Flowers
+  +  
+
+
+
+Statue + Jellyfish
+  +  
+
+
+
+
+
+Statue + Lichen
+  +  
+
+
+
+Statue + Wave
+  +  
+
+
+
+Statue + Lichen + Flowers
+  +    +  
+
+
+
+
+
+
+Midjourney Model Version 5
+
+
+Statue + Flowers
+  +  
+
+
+
+Statue + Jellyfish
+  +  
+
+
+
+
+
+Statue + Lichen
+  +  
+
+
+
+Statue + Wave
+  +  
+
+
+
+Statue + Lichen + Flowers
+  +    +  
+
+
+
+
+
+Aspect Ratio Tip
+
+Crop images to the same aspect ratio as your final image for the best results.
+
+
+
+Image Weight Parameter
+Use the image weight parameter --iw to adjust the importance of the image vs. text portion of a prompt. The default value is used when no --iw is specified. Higher --iw values mean the image prompt will have more impact on the finished job.
+See the  Multi Prompts page for more information about the relative importance between parts of a prompt.
+Different Midjourney Version Models have different image weight ranges.
+
+
+
+
+Version 5
+Version 4
+Version 3
+Test / Testp
+niji
+
+
+
+
+Stylize default
+1
+NA
+.25
+NA
+NA
+
+
+Stylize Range
+.5–2
+NA
+-10000–10000
+NA
+NA
+
+
+
+
+prompt example: /imagine prompt flowers.jpg birthday cake --iw .5
+
+
+
+Image Prompt
+
+
+
+--iw .5
+
+
+
+--iw .75
+
+
+
+--iw 1
+
+
+
+--iw 1.25
+
+
+
+--iw 1.5
+
+
+
+--iw 1.75
+
+
+
+--iw 2
+
+
+
+Subscribers can work one-on-one with the Midjourney Bot in Discord's Direct Messages instead of a public channel. Images made within your direct messages are still subject to content and moderation rules and will be visible on your Midjourney website gallery.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Previous
+
+
+
+
+
+
+
+
+Next
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Table of contents
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Midjourney is an independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species. We are a small self-funded team focused on design, human infrastructure, and AI.
+                        FOLLOW US: [F] [T] [R]
+
+
+
+
+
+Support
+For questions or support visit the  Midjourney Discord support channels.
+
+
+
+
+Sites
+
+Midjourney Website
+Midjourney Discord
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
